@@ -1,4 +1,4 @@
-# Scrappers varios
+# Scrapers varios
 
 En este repositorio tengo un lio de scrapers que fui haciendo a lo largo del tiempo. 
 Los siguientes son los únicos que están probadamente en funcionamiento (aunque, por supuesto, podrían dejar de funcionar sin previo aviso). 
